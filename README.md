@@ -7,7 +7,6 @@ WEBSITE is a website developed using HTML and CSS
 
 ## Layout 
 ![Mobile 1](https://github.com/Igorcand/Web-Project/blob/master/assets/foto1.png) 
-
 ![Mobile 2](https://github.com/Igorcand/Web-Project/blob/master/assets/foto2.png) 
 
 
